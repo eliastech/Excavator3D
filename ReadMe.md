@@ -10,5 +10,5 @@
 * Key controller 
 * Rotations in 3d
 
-![picture alt](http://www.cloudinfo.biz/links/J3DCrane.PNG "Content")
+![picture alt](http://cloudinfo.biz/links/J3DCrane.PNG "Content")
 
